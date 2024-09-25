@@ -49,6 +49,9 @@
               <span>virent.24.7@gmail.com"</span>
             </a>
           </li>
+          <li>
+            <a href="login.html" class="header-top-link">Login</a>
+          </li>
 
           <li>
             <a href="#" class="header-top-link">
@@ -77,6 +80,10 @@
         <nav class="navbar" data-navbar>
 
           <div class="navbar-top">
+            <a href="login.html" class="header-bottom-actions-btn" aria-label="Profile">
+              <ion-icon name="person-outline"></ion-icon>
+              <span>Profile</span>
+          </a>
 
             <a href="#" class="logo">
               <img src="C:\Users\ARJUN GUPTA\Downloads\homeverse-master\VIrenT\assets\images\dec211b4-07d4-4534-8170-859f665c6e1c-removebg-preview.png" alt="Homeverse logo">
